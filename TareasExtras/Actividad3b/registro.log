@@ -1,0 +1,3 @@
+2026-01-28 12:12:06,143 | WARNING | 2676584271.py | Mensaje guardado en archivo
+2026-01-28 12:12:46,468 | INFO | 2593032799.py | [32mMensaje verde[0m
+2026-01-28 12:12:46,470 | ERROR | 2593032799.py | [31mMensaje rojo[0m
